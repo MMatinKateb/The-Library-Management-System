@@ -1,0 +1,6 @@
+[2023-9-4] New student with StudentNO-399 registered.
+[2023-9-4] Issuing book-1111111 for student-399
+[2023-9-4] Issuing book-4444444 for student-399
+[2023-9-4] New student with StudentNO-398 registered.
+[2023-9-4] Book-1111111 returned by student-399
+[2023-9-4] Book-4444444 returned by student-399
