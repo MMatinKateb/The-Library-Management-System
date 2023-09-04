@@ -10,7 +10,7 @@
 using namespace std;
 
 /*
-	Author: Negin Heidari
+	Author: Mohammad Matin Kateb
 	The Library Management System
 */
 
